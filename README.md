@@ -19,7 +19,7 @@ Elabore um programa que permita administrar uma lista de funcionários e, atrav�
   <i>3. Pesquisar</i><br>
   <i>4. Listar</i><br>
 
-##OBSERVAÇÕES:
+## OBSERVAÇÕES:
 
 a) Não poderão ser cadastrados funcionários com mesmo prontuário; <br>
 
